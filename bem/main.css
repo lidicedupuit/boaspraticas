@@ -1,0 +1,20 @@
+.product {
+  margin: 56px auto;
+}
+.product__image {
+  width: 100%;
+}
+.product__name {
+  font-size: 1.2em;
+  margin: 8px 0;
+}
+.product__description {
+  color: gray;
+}
+.product__is-highlight {
+  border: 2px solid gold;
+  padding: 8px;
+  background-color: #ffff42;
+}
+
+/*# sourceMappingURL=main.css.map */
